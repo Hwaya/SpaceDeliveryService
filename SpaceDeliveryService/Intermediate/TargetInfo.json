@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SpaceDeliveryService",
+			"Path": "C:\\Users\\HY_Raptop\\OneDrive\\Desktop\\GitHub\\SpaceDeliveryService\\SpaceDeliveryService\\Source\\SpaceDeliveryService.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SpaceDeliveryServiceEditor",
+			"Path": "C:\\Users\\HY_Raptop\\OneDrive\\Desktop\\GitHub\\SpaceDeliveryService\\SpaceDeliveryService\\Source\\SpaceDeliveryServiceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
